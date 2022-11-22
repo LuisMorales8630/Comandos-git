@@ -8,3 +8,4 @@
 6- git log             // Muestra el estado de los commit
 7- git commit --amend  // Sirve para modificar el último commit
 8- git checkout -b     // sirve para crear una nueva rama
+9- git checkout master // Sirve para pasar a la rama master
