@@ -9,3 +9,5 @@
 7- git commit --amend  // Sirve para modificar el último commit
 8- git checkout -b     // sirve para crear una nueva rama
 9- git checkout master // Sirve para pasar a la rama master
+10- git merge          // Sirve para agreagar ramas existentes a la rama master
+11- git branch         // Sirve para mostrar las ramas que tenemos
