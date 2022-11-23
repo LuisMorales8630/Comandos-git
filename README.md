@@ -13,3 +13,4 @@
 11. git branch         // Sirve para mostrar las ramas que tenemos
 12. git branch -d      // Sirve para borra una rama
 13. git push           // Envía los cambios al repositorio
+14. git commit -am     // Sirve para agregar y mandar un mensaje a la vez (reemplaza a git add y git commit)
