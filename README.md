@@ -12,3 +12,4 @@
 10. git merge          // Sirve para agreagar ramas existentes a la rama master
 11. git branch         // Sirve para mostrar las ramas que tenemos
 12. git branch -d      // Sirve para borra una rama
+13. git push           // Envía los cambios al repositorio
